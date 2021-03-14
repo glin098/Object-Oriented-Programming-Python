@@ -15,6 +15,5 @@ for x in range(1,10000+1):
         if count != 0:
             clist.append(count)
             count = 0
-            tails = False
 print('Average number of flips: ', sum(clist)/len(clist))
 print('Maximum number of flips: ', max(clist))
