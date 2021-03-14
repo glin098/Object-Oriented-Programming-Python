@@ -2,9 +2,6 @@
 #of “heads” and counting the number of flips that occur.
 #Write a for loop that repeats 10,000 trials of this experiment
 
-The average number of flips used per trial
-The maximum number of flips that occurred in a single trial
-
 from random import randrange
 
 clist = []
